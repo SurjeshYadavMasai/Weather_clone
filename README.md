@@ -8,5 +8,5 @@ This is a project I made during my third month of my Bootcamp (Masai School). It
 There are no collaborations in this project. It was made my myself in a few hours.
 
 # Tech Stacks Used:
-I used Javascript, fetch API, HTML, CSS and Bootstrap library to achieve the final result.
+I used Javascript, fetch API, HTML, CSS and Bootstrap library to achieve the final result
 ![Screenshot (192)](https://github.com/SurjeshYadavMasai/Projects-Photos/blob/main/Screenshot%20(603).png)
